@@ -1,0 +1,9 @@
+{
+    "hLow": 35,
+    "hHigh": 135,
+    "sLow": 80,
+    "sHigh": 255,
+    "vLow": 175,
+    "vHigh": 255,
+    "scale": 0.00001
+}
