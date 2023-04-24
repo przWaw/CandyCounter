@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5c7e0cc-53cd-4d74-85c6-233d3767b6e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InRangeSearching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestGroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreshValues/Green.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreshValues/Red.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreshValues/Violet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreshValues/Yellow.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="25eb0d32-4a42-42c5-9972-cf6e6759e95e" />
+        <option name="url" value="https://github.com/przWaw/CandyCounter.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Orgv5dbJ0g4HX3So9zQSDXzGHL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/przem/Desktop/pythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\przem\Desktop\pythonProject" />
+      <recent name="C:\Users\przem\Desktop\pythonProject\ThreshValues" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\przem\Desktop\pythonProject\RecognitionValues" />
+      <recent name="C:\Users\przem\Desktop\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TestGroup">
+    <configuration name="TestGroup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestGroup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TestGroup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5c7e0cc-53cd-4d74-85c6-233d3767b6e9" name="Changes" comment="" />
+      <created>1682324341716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682324341716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
